@@ -37,44 +37,13 @@ cartt/
 
 
 
----
 
 ## 🛠️ Setup Instructions
 
 ### 1. Clone the Repository
 
-```bash
+``bash
 git clone <your-repo-url>
 cd cartt
 2. Install Dependencies
-bash
-Copy
-Edit
-npm install
-3. Configure MongoDB
-Make sure MongoDB is installed and running on your system (default: mongodb://localhost:27017/ecommerce).
 
-You can also use MongoDB Atlas – update .env file:
-
-ini
-Copy
-Edit
-MONGODB_URI=mongodb://localhost:27017/ecommerce
-PORT=3000
-4. Seed Sample Products
-bash
-Copy
-Edit
-node seeder.js
-5. Start the Server
-bash
-Copy
-Edit
-npm start
-The site will be running at: http://localhost:3000
-
-🖼️ Screenshots
-You can insert screenshots of your product listing, product detail, cart, and login pages here.
-
-🙋‍♂️ Author
-Developed by [Your Name or Team Name]
