@@ -19,7 +19,7 @@ A basic e-commerce web application built with Node.js, Express.js, MongoDB, and 
 ## Getting Started
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/hallikerijaved/CodeAlpha_Ecomerce.git
 cd cartt
 npm install
 ```
